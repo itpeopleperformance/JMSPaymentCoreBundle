@@ -1,5 +1,5 @@
 {
-    "name": "jms/payment-core-bundle",
+    "name": "jms/payment-core-bundle-2",
     "type": "symfony-bundle",
     "description": "A unified API for processing payments with Symfony",
     "keywords": ["payment"],
